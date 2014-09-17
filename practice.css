@@ -1,0 +1,14 @@
+ body{
+            background-color: antiquewhite;
+            font-size: 18px;
+        
+        }
+        h1{color: forestgreen;
+        font-family: cursive;
+        border-bottom-width: medium;
+        border-bottom-style: solid; 
+        }
+      h2{color: lightcoral;
+          font-family: cursive;
+          text-align: center;
+      }
