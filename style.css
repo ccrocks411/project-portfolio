@@ -1,4 +1,58 @@
+/*
 Ciara Andrews
 #772843
 #7cb2d3
 #3eba58
+*/
+
+
+a{
+    color:#772843;
+}
+h1{
+    color:772843;
+}
+a{
+    color:#7cb2d3;
+}
+h2{
+    color:#7cb2d3
+}
+.color1{
+    width: 200px;
+    height: 200px;
+    background-color: #772843
+}
+.color2{
+    width:200px;
+    height: 200px;
+    background-color: #7cb2d3
+}
+.color3{
+    width: 200px;
+    height: 200px;
+    background-color: #3eba58
+}
+
+header{
+    background-color: :gray;
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+}
+body{
+     background-color: lavender;
+        color:gold;
+    }
+        h1{
+            color: pink;
+        }
+        h1,h2{
+            font-family:cursive;
+        }
+        li{
+            color: white;
+        }
+        a{
+            color: gold;
+        }
