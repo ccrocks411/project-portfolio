@@ -35,20 +35,28 @@ h2{
     height: 200px;
     background-color: #772843
 }
+
+.color1:hover{
+    color:red;
+}
 .color2{
     width:200px;
     height: 200px;
     background-color: #7cb2d3
+}
+.color2:hover{
+    color:pink;
 }
 .color3{
     width: 200px;
     height: 200px;
     background-color: #3eba58
 }
-
-.clear{
-    clear:both:
+.color3:hover{
+    color:white;
 }
+
+
 header{
     background-color: #dddddd;
     width: 8000px;
@@ -74,3 +82,23 @@ body{
         a{
             color: gold;
         }
+.site-footer a{
+    font-size:2em;
+    color: green;
+}
+
+.site-footer a:hover{
+    color: purple;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+
