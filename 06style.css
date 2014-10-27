@@ -1,0 +1,25 @@
+body{
+    background-image:url("images/congruent_outline.png");
+    color: pink;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    margin: 2%;
+    padding: 3%
+}
+h1{
+    color: Purple;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    
+}
+h3{
+    color: #81DAF5;
+    text-align: center;
+    
+}
+h4{ color: #FF0080;
+    font-family: 'Coming Soon', cursive;
+    font-size: 28px;
+    
+}
