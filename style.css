@@ -12,7 +12,7 @@ a{
 }
 h1{
     font-family: 'Pacifico', cursive;
-    color:772843;
+    color:#772843;
 }
 a{
     color:#7cb2d3;
@@ -57,18 +57,48 @@ h2{
 }
 
 
+
 header{
-    background-color: #dddddd;
-    width: 8000px;
+    
+    width: 500px;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
+    border: 10px maroon:
+}
+#header {
+    float: left;
+    width:500px;
+    background-color: white;
+    padding: 10px 10px;
+    border: 10px solid maroon;
+    margin: 10em;
+    border-radius: 20px;
+}
+
+#sidebar {
+    float: right;
+    width:250px;
+    background-color: #c9c;
+    padding: 10px;
+    border: 10px solid maroon;
+    margin: 2em;
+    border-radius: 20px;
+}
+
+#footer {
+    clear:both;
+    background-color: #cc9;
+    padding: 5px 10px;
+    border: 10px solid maroon;
+    border-radius: 20px;
 }
 
 
 body{
     font-family: 'Shadows Into Light', cursive;
-     background-color: lavender;
-        color:gold;
+     background-image: url('images/upfeathers.png');
+        color:yellow;
     }
         h1{
             color: pink;
@@ -80,8 +110,16 @@ body{
             color: white;
         }
         a{
-            color: gold;
+            color: red;
         }
+ul{ 
+    list-style:none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    margin: 1em 0;
+}
 .site-footer a{
     font-size:2em;
     color: green;
